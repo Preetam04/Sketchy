@@ -1,7 +1,6 @@
-import React, { useEffect, useRef, useState } from "react";
-import pen from "../../../images/pen.gif";
-import undo from "../../../images/undo.gif";
+import { useEffect, useRef, useState } from "react";
 import clear from "../../../images/clear.gif";
+import undo from "../../../images/undo.gif";
 
 const colors: string[] = [
   "  rgb(255, 255, 255)",
